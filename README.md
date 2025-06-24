@@ -4,7 +4,7 @@ I'm a passionate **Full Stack Developer** with a strong background in both front
 
 ## 🚀 About Me
 
-- 💻 **Full Stack Developer:** Skilled in HTML, CSS, Tailwind, Bootstrap, JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, MySQL, PostgreSQL, AWS S3, and more.
+- 💻 **Full Stack Developer:** Skilled in HTML, CSS, Tailwind, Bootstrap, JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, MySQL, PostgreSQL, AWS S3, and more. ([Portfolio](https://portfolio-malya-srivastava.vercel.app/))
 - 🎨 **Had been a UI/UX Enthusiast:** Designing interactions and experiences made me understand products and build better solutions. ([Behance Portfolio](https://behance.net/malyasrivastava)).
 - 🤝 **Collaborator:** Currently working on [filmymatch](https://github.com/MohdMusaiyab/filmymatch) , a collaboration project.
 
