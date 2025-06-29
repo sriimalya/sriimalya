@@ -31,9 +31,9 @@ A collaborative project aiming to revolutionize how users consume and curate con
 
 ## 📈 GitHub Streak & Contributions
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriimalya&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=sriimalya)](https://git.io/streak-stats)
+
 
 ## 🔗 Connect with Me
 
