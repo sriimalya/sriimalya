@@ -1,7 +1,5 @@
 # Hi there, I'm Malya Srivastava 👋
 
-I'm a passionate **Full Stack Developer** with a strong background in both frontend and backend technologies. I love building robust and user-friendly web applications, and I'm always eager to collaborate on exciting projects!
-
 ## 🚀 About Me
 
 - 💻 **Full Stack Developer:** Skilled in HTML, CSS, Tailwind, Bootstrap, JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, MySQL, PostgreSQL, AWS S3, and more. ([Portfolio](https://portfolio-malya-srivastava.vercel.app/))
