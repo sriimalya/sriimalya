@@ -35,9 +35,9 @@ A collaborative project aiming to revolutionize how users consume and curate con
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/malya-srivastava-5a4254229)
-- [Portfolio](https://portfolio-malya-srivastava.vercel.app/)
-- [Behance](https://behance.net/malyasrivastava)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=vercel&logoColor=white)](https://portfolio-malya-srivastava.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malya-srivastava-5a4254229)
+[![Email](https://img.shields.io/badge/Email-malyasri0112@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malyasri0112@gmail.com)
 
 ---
 
